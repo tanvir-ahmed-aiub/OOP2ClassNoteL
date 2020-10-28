@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Th3", "Th3\Th3.csproj", "{6DFC8E6B-8DCB-44D5-BF75-5F680FA68C5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InternalChk", "InternalChk\InternalChk.csproj", "{A68B24D3-D273-43B6-8E88-79E520A57823}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DFC8E6B-8DCB-44D5-BF75-5F680FA68C5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DFC8E6B-8DCB-44D5-BF75-5F680FA68C5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DFC8E6B-8DCB-44D5-BF75-5F680FA68C5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DFC8E6B-8DCB-44D5-BF75-5F680FA68C5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A68B24D3-D273-43B6-8E88-79E520A57823}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A68B24D3-D273-43B6-8E88-79E520A57823}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A68B24D3-D273-43B6-8E88-79E520A57823}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A68B24D3-D273-43B6-8E88-79E520A57823}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F973890C-6BF0-4220-9DFA-B20257D86186}
+	EndGlobalSection
+EndGlobal

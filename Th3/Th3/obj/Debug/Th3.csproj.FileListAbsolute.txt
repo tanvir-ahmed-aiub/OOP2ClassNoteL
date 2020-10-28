@@ -1,0 +1,7 @@
+F:\Teaching\OOP2 Fall 20-21\L\Th3\Th3\bin\Debug\Th3.exe.config
+F:\Teaching\OOP2 Fall 20-21\L\Th3\Th3\bin\Debug\Th3.exe
+F:\Teaching\OOP2 Fall 20-21\L\Th3\Th3\bin\Debug\Th3.pdb
+F:\Teaching\OOP2 Fall 20-21\L\Th3\Th3\obj\Debug\Th3.csprojAssemblyReference.cache
+F:\Teaching\OOP2 Fall 20-21\L\Th3\Th3\obj\Debug\Th3.csproj.CoreCompileInputs.cache
+F:\Teaching\OOP2 Fall 20-21\L\Th3\Th3\obj\Debug\Th3.exe
+F:\Teaching\OOP2 Fall 20-21\L\Th3\Th3\obj\Debug\Th3.pdb
