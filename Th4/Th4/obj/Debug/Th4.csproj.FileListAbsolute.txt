@@ -1,0 +1,7 @@
+F:\Teaching\OOP2 Fall 20-21\L\Th4\Th4\bin\Debug\Th4.exe.config
+F:\Teaching\OOP2 Fall 20-21\L\Th4\Th4\bin\Debug\Th4.exe
+F:\Teaching\OOP2 Fall 20-21\L\Th4\Th4\bin\Debug\Th4.pdb
+F:\Teaching\OOP2 Fall 20-21\L\Th4\Th4\obj\Debug\Th4.csprojAssemblyReference.cache
+F:\Teaching\OOP2 Fall 20-21\L\Th4\Th4\obj\Debug\Th4.csproj.CoreCompileInputs.cache
+F:\Teaching\OOP2 Fall 20-21\L\Th4\Th4\obj\Debug\Th4.exe
+F:\Teaching\OOP2 Fall 20-21\L\Th4\Th4\obj\Debug\Th4.pdb
