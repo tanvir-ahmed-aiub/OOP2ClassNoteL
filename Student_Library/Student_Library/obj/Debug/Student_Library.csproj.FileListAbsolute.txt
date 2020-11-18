@@ -1,0 +1,7 @@
+F:\Teaching\OOP2 Fall 20-21\Student_Library\Student_Library\obj\Debug\Student_Library.csproj.CoreCompileInputs.cache
+F:\Teaching\OOP2 Fall 20-21\Student_Library\Student_Library\bin\Debug\Student_Library.exe.config
+F:\Teaching\OOP2 Fall 20-21\Student_Library\Student_Library\bin\Debug\Student_Library.exe
+F:\Teaching\OOP2 Fall 20-21\Student_Library\Student_Library\bin\Debug\Student_Library.pdb
+F:\Teaching\OOP2 Fall 20-21\Student_Library\Student_Library\obj\Debug\Student_Library.exe
+F:\Teaching\OOP2 Fall 20-21\Student_Library\Student_Library\obj\Debug\Student_Library.pdb
+F:\Teaching\OOP2 Fall 20-21\Student_Library\Student_Library\obj\Debug\Student_Library.csprojAssemblyReference.cache
