@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Th6
 {
-    class Animal
+    abstract class Animal
     {
         virtual public void Eat()
         {
@@ -24,5 +24,7 @@ namespace Th6
         {
             Console.WriteLine(" sounds with mouth");
         }
+        abstract public void Bath();
+       
     }
 }

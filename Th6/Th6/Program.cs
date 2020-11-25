@@ -10,6 +10,7 @@ namespace Th6
     {
         static void Main(string[] args)
         {
+            Animal a = new Horse();
             /*Cow cow = new Cow();
             Horse horse = new Horse();
             Snake snk = new Snake();

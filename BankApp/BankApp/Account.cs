@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BankApp
 {
-    class Account
+    abstract class Account
     {
         private string accNo;
 
@@ -43,15 +43,15 @@ namespace BankApp
         {
             balance += amount;
         }
-        public virtual void Withdraw(double amount)
-        {
+        public abstract void Withdraw(double amount);
+       /* {
             if (amount < balance){
                 balance -= amount;
             }
             else {
                 Console.WriteLine("Insufficient Balance");
             }
-        }
+        }*/
         virtual public void ShowInfo()
         {
             Console.WriteLine("Acc Name: " +accName);

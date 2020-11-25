@@ -12,5 +12,10 @@ namespace Th6
         {
             Console.WriteLine("sleep by standing");
         }
+        public override void Bath()
+        {
+            
+        }
+
     }
 }

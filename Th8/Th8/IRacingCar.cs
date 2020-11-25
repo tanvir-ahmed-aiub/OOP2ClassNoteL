@@ -4,11 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Th6
+namespace Th8
 {
-    abstract class Whale:Animal
+    interface IRacingCar
     {
+        void ExtraSpeed();
+        void EmergencyBrake();
+        void NOS();
 
     }
-    
 }

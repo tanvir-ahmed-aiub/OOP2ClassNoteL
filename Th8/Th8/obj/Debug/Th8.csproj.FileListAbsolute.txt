@@ -1,0 +1,7 @@
+F:\Teaching\OOP2 Fall 20-21\L\Th8\Th8\bin\Debug\Th8.exe.config
+F:\Teaching\OOP2 Fall 20-21\L\Th8\Th8\bin\Debug\Th8.exe
+F:\Teaching\OOP2 Fall 20-21\L\Th8\Th8\bin\Debug\Th8.pdb
+F:\Teaching\OOP2 Fall 20-21\L\Th8\Th8\obj\Debug\Th8.csprojAssemblyReference.cache
+F:\Teaching\OOP2 Fall 20-21\L\Th8\Th8\obj\Debug\Th8.csproj.CoreCompileInputs.cache
+F:\Teaching\OOP2 Fall 20-21\L\Th8\Th8\obj\Debug\Th8.exe
+F:\Teaching\OOP2 Fall 20-21\L\Th8\Th8\obj\Debug\Th8.pdb

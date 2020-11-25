@@ -8,5 +8,9 @@ namespace Th6
 {
     class Cow : Animal
     {
+        public override void Bath()
+        {
+            
+        }
     }
 }
