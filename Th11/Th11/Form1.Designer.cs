@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.login = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
             this.textBoxUsername = new System.Windows.Forms.TextBox();
@@ -35,6 +36,8 @@
             this.label2 = new System.Windows.Forms.Label();
             this.buttonLogin = new System.Windows.Forms.Button();
             this.buttonNotReg = new System.Windows.Forms.Button();
+            this.pictureBoxPhoto = new System.Windows.Forms.PictureBox();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxPhoto)).BeginInit();
             this.SuspendLayout();
             // 
             // login
@@ -111,12 +114,22 @@
             this.buttonNotReg.UseVisualStyleBackColor = true;
             this.buttonNotReg.Click += new System.EventHandler(this.AppearReg);
             // 
+            // pictureBoxPhoto
+            // 
+            this.pictureBoxPhoto.Image = ((System.Drawing.Image)(resources.GetObject("pictureBoxPhoto.Image")));
+            this.pictureBoxPhoto.Location = new System.Drawing.Point(495, 88);
+            this.pictureBoxPhoto.Name = "pictureBoxPhoto";
+            this.pictureBoxPhoto.Size = new System.Drawing.Size(366, 358);
+            this.pictureBoxPhoto.TabIndex = 7;
+            this.pictureBoxPhoto.TabStop = false;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.Control;
-            this.ClientSize = new System.Drawing.Size(582, 435);
+            this.ClientSize = new System.Drawing.Size(1053, 646);
+            this.Controls.Add(this.pictureBoxPhoto);
             this.Controls.Add(this.buttonNotReg);
             this.Controls.Add(this.buttonLogin);
             this.Controls.Add(this.textBoxPassword);
@@ -126,6 +139,7 @@
             this.Controls.Add(this.login);
             this.Name = "Form1";
             this.Text = "Form1";
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxPhoto)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -140,6 +154,7 @@
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Button buttonLogin;
         private System.Windows.Forms.Button buttonNotReg;
+        private System.Windows.Forms.PictureBox pictureBoxPhoto;
     }
 }
 

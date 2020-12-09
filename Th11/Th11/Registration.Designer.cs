@@ -123,6 +123,7 @@
             "Business",
             "Other",
             "Service"});
+            this.comboBoxProf.SelectedIndex = 0;
             this.comboBoxProf.Location = new System.Drawing.Point(121, 157);
             this.comboBoxProf.Name = "comboBoxProf";
             this.comboBoxProf.Size = new System.Drawing.Size(220, 30);
